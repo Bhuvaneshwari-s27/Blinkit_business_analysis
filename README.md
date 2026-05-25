@@ -1,7 +1,7 @@
 # Blinkit Business Analysis Dashboard
 
 ## Project Overview
-This project analyzes Blinkit sales data using Python, Pandas, NumPy, and Power BI to uncover business insights related to customer behavior, sales trends, product performance, and revenue analysis.
+This project analyzes Blinkit sales data using Python, Pandas and Power BI to uncover business insights related to customer behavior, sales trends, product performance, and revenue analysis.
 
 ## The project includes:
 
